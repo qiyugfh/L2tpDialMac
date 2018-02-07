@@ -1,0 +1,3 @@
+*.pro linguist-language=Qt
+*.cpp linguist-language=Qt
+*.mm linguist-language=Objective-C
