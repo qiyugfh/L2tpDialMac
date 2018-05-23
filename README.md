@@ -1,1 +1,1 @@
-这是一个Qt和Objective-C混合编程的示例，它的功能是在Mac下进行L2TP拨号，包括创建VPN服务、删除VPN服务、启动连接、断开连接、判断连接状态。
+This is an example of a Qt and objective-c hybrid programming, which functions as L2TP dialing on a Mac, including creating VPN services, deleting VPN services, initiating connections, disconnecting, and determining connection status.
